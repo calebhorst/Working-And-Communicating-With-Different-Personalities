@@ -1,5 +1,12 @@
-## 
+## Leading With
 ```
+Another really cool concept I picked up as I've studied this topic over the years is also empowering. Let's take a simple example and say that someone is really introverted. You would expect an introvert to not want to be around a lot of people, not want to talk to or present to large groups, not do well in a network environment, things like that. These are generalizations we make about introverts, right? What happens then when an introvert is in a network meeting and they seem like the life of the party. They're loud, converse well, and hold their own. If you didn't know they were an introvert, you would think they were the most extroverted person around. Well, first of all, introvert doesn't mean you don't like or can't be around people or that you can't have conversations with humans. The newer way I've heard introverts described is how they recharge. The introvert recharges by themselves, while the extrovert recharges by being around others. Instead of going into the definition of what an introvert is or isn't, I want to focus on a different idea, which is that we can have personality traits that are more dominant than others, but even the less dominant traits can come out sometimes. My wife refers to this as leading with. You might usually lead with certain tendencies, but in different circumstances, perhaps influenced by moods or urgencies or whatever, your less dominant tendencies might come out and be more dominant. This is not an unexplainable phenomenon or even rare, it's just respecting ourselves and others and recognizing that we are dynamic, complex creatures who aren't always going to act in a certain way, regardless of what our assessment results are. Pay attention to what you and others lead with, but don't be shocked when you see communication or behavior that contradicts what you expect.
 ```
 
 ## Notes
+- Introverts don't necessarily dislike being around people or engaging in conversations.
+- Introversion is better understood by how one recharges; introverts recharge by themselves, while extroverts recharge by socializing.
+- People can have dominant and less dominant personality traits, and these traits can vary in intensity depending on the situation.
+- Leading with certain tendencies is common, but individuals can display different traits influenced by mood, urgency, or circumstances.
+- Personality assessments provide valuable insights but should not rigidly define or confine individuals, as human behavior is complex and dynamic.
+- Expect variations in communication and behavior that may contradict initial expectations based on personality assessments.

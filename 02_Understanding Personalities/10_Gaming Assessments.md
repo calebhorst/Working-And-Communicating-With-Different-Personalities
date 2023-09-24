@@ -1,5 +1,11 @@
-## 
+## Gaming Assessments
 ```
+Another issue I hear about with these assessments and have even had problems with myself is the tendency to game the assessment. This is tricky for me because I want to answer each question correctly, but sometimes that means I answered based on what I think the ideal answer is and not what my honest answer is. Gaming an assessment might mean we think about how someone we admire might answer a question or how we wish we would respond if we were better people or how we would answer if we had habits or thoughts that were better than what we have now. I've been instructed to answer questions based on my gut feel instead of overanalyzing or thinking too much about a question and what the "right" answer is. When you read a question, your first reaction or thought is what you should go with. That's what I've been told when taking these assessments. I tend to overthink the question or my responses. I usually read a question and think, this question is worded so horribly. It can mean too many different things. How should I answer so I look better? This is not the way to answer the questions. When you read a question and know your response will make you not as professional, nice or productive as you want, it's easy to answer in a way that makes you look better. At least that's what I find myself doing. Again, try not to think too deeply about your responses and answer honestly. There isn't a right or wrong answer or a right or wrong personality or label or categorization. The goal is to learn about yourself and help others understand you better. Gaming the assessment won't help you get to the truth you want and need. The more honest you are in your answers, the better your results should be. If your answers are ideal, but not reflective of who you are, your results won't be as meaningful.
 ```
 
 ## Notes
+- Gaming personality assessments involves answering questions based on what one thinks is the ideal answer, rather than being honest.
+- Overanalyzing or trying to present oneself in a better light can lead to inaccurate assessment results.
+- It's recommended to answer questions based on one's initial, gut reactions rather than overthinking.
+- Honesty is crucial when taking personality assessments as the goal is to gain a better understanding of oneself and improve communication with others.
+- Idealized answers may not reflect one's true personality and can lead to less meaningful results.

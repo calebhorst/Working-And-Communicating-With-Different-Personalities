@@ -1,5 +1,11 @@
-## 
+## Allowing Change Over Time
 ```
+I've talked about this a little during this course, but I want to be explicitly clear on an important concept. You must allow for change over time. Your results today could be different, even drastically different than your results tomorrow or in a few years. The notion of getting certain assessment results, which give us a label or put us into a category, needs to be fluid as we and our circumstances change. I think this should give some of the naysayers some confidence and hope because one of the big complaints against these assessments is that they are too discrete and define us for too long. Your results are not permanent. They represent a snapshot based on imperfect questions, which you responded to while experiencing perhaps temporary circumstances or moods. If there are certain things in your personality that are out of alignment with who you really want to become, you're not stuck. You can actually work on skills and attributes and improve yourself. You can think about who you want to become and also how you want to act and start acting that way. Allowing for change over time is a beautiful concept for us and for others. It allows us to grow and mature, to find ourselves and to make corrections. Going back to how someone was years ago could limit how we see them or how we allow them to express themselves. I invite you to keep this in mind as you get to work with different types of people over the years, especially the people who tend to rub you the wrong way or annoy you
 ```
 
 ## Notes
+- Personality assessment results can change over time due to evolving circumstances, moods, and personal growth.
+- Assessment results are not permanent and should be viewed as a snapshot.
+- If certain aspects of your personality are not aligned with your desired self, you can work on improving and changing them.
+- Allowing for change over time is essential for personal growth, maturity, and self-discovery.
+- It's important to keep this concept in mind when working with various types of people, especially those who may initially seem challenging or annoying.

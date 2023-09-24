@@ -1,5 +1,11 @@
-## 
+## Persuading Others
 ```
+Years ago I was listening to a presentation by one of my business mentors. He said he has two main things he wants to accomplish when he presents. Those are to impact and to inspire. I thought that was really profound. It made me think about why I communicate with anyone. Whether I'm talking to one person or hundreds of people, I too want to impact and inspire. When we impact and inspire others, we're in a great position to persuade and influence. Learning how to persuade and influence others can be a superpower. Seriously, one of the most powerful skills you can learn. I have friends who are masters of persuasion. Watching them communicate with others is fascinating. This superpower could be abused, and by no means am I asking you to think about how to persuade someone in an abusive or malicious way, but I am asking you to think about how you can be more effective in your communication and become more persuasive in your arguments. Of course, persuading others doesn't mean you always need or want to have your way, but as you seek to understand and seek truth, you can persuade others to seek to understand and seek truth. Use these new powers of persuasion and influence for good and see what that does to your team and productivity. Practice persuading others to come to your way of thinking or get bought into your proposals. As you learn more about yourself, your personality, and tendencies to communicate and learn more about others and their tendencies to receive information, you'll be on a path to more effectively persuade others
 ```
 
 ## Notes
+- Effective communication aims to both impact and inspire others.
+- The ability to persuade and influence is a valuable skill.
+- Persuasion should be used for positive purposes and not abused or employed maliciously.
+- Persuading others doesn't always mean having your way; it can involve encouraging understanding and seeking truth.
+- Understanding your communication tendencies and those of others is crucial for effective persuasion and influence.

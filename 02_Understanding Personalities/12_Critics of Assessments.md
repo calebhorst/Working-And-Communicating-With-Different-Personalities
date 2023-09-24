@@ -1,5 +1,11 @@
-## 
+## Critics of Assessments
 ```
+For any given personality assessment tool, you'll find plenty of critics. They can range from people who don't like assessments in general to people who love one tool or methodology and therefore don't like others. A quick online search of MBTI and critics will show things like misleading, inaccurate, unscientific, pretty much meaningless, hogwash, pseudoscience, and questionable. You can find articles with titles similar to MBTI, the Fad that Won't Die. No assessment is flawless. Knowing they aren't perfect, we can still take the results and use them as data points. If we want to improve our teams, our communication, our productivity, and ourselves, let's take multiple data points from which we can make decisions. When I first created this course, an article I read said there are about 2.5 million Myers‑Briggs assessments taken each year. A few years later, a new article says 3.5 million assessments are taken each year. Other assessments, such as the DiSC assessment, have also grown in popularity. I'm not sure this is because people are dying to learn more about themselves. I'm guessing this is getting pushed by HR departments and organizational leaders to better understand cultural fit, cultural differences to make hiring and promotion decisions, etc. Instead of focusing on the flaws, I want to focus on what we can learn from these assessment tools. I want to know how they can help us as we work with, communicate with, and persuade other people.
 ```
 
 ## Notes
+- Personality assessment tools often have critics and face various forms of skepticism.
+- Critics may label assessments as misleading, inaccurate, unscientific, or pseudoscience.
+- No assessment is flawless, but they can provide valuable data points for personal and professional growth.
+- Assessments like the Myers‑Briggs and DiSC are widely used for HR and organizational purposes.
+- The focus should be on what can be learned from these tools to enhance teamwork, communication, productivity, and persuasion skills.

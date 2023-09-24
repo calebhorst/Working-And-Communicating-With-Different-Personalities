@@ -1,5 +1,13 @@
-## 
+## Communicating with Others
 ```
+I'm fascinated by excellent communicators. You have people who can get in front of an audience and command a room with people on the edge of their seats and anxious to hear more. You have great leaders who seem to fill a room with their enthusiasm and positive energy, and you have those who are much less visible, quieter, and seem to be more reserved, but even those people can be excellent communicators. Communication comes natural to some, but others, like me, need to continually work at it. I should mention, there are a number of courses in Pluralsight that help you improve your communication skills. Check my profile after you watch this online course and you'll find some. At the core of effective communication is knowing your message and what you want people to walk away with. That might be information or motivation to act on something. Another critical element of communication is understanding how you tend to communicate. Perhaps you have a tendency to be overbearing, very direct or use subtle hints. Your communication is probably influenced by your culture. It is definitely influenced by your personality. People who are results‑driven are more likely to get right to the point and not consider feelings than people who are driven by relationships. Understanding yourself is critical; understanding who you communicate with is essential. You may be results‑driven, but if the people around you are more relationship driven, they will get tired of your impersonal, straight‑to‑the‑point communication. I'm not saying you have to change how you communicate. That's a decision you'll have to make based on multiple factors. What I'm saying is that when you understand your communication tendencies and the tendencies of those you communicate with and to, you can be a more effective communicator. I'm not sure there are many more important skills to give you better results or relationships than really effective communication. I hope as you progress through this course, you come to understand how you can more effectively communicate to the different types of people you interact with.
 ```
 
 ## Notes
+- Effective communication is a key skill that can be developed.
+- Courses on improving communication skills are available on Pluralsight.
+- Core elements of effective communication include knowing your message and what you want people to take away from it.
+- Communication styles can vary based on personality and culture.
+- Results-driven individuals may communicate more directly, while relationship-driven individuals may prefer a more personal approach.
+- Understanding your own communication tendencies and those of your audience is crucial for effective communication.
+- Effective communication is essential for building better results and relationships.
