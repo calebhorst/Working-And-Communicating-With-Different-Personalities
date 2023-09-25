@@ -1,5 +1,15 @@
-## 
+## Personalities and Influencing Others
 ```
+The third thing I want to talk about completely intertwined with better relationships and better communication is influencing. We have opportunities to influence others many times a day. We influence them to give us more resources or time. Maybe we need more information or introductions to others. Perhaps we need them to buy in or sign off. As we improve our relationships, we put ourselves in a position to influence others. As we learn how to more effectively communicate with others, we're in a better position to influence others. I've known people who are masters of influence. I'm not sure how much training they've had or if this just comes naturally to them, but I've seen them influence others, and it's mesmerizing. I'm not talking about influencing in a bad way, but effective influencers seem to get their way a lot. They have thought through what they want, understand why it's best for everyone, and then work on communicating that to others. Influencing others can have a great impact on your career. You might find more success with your projects and products, you might find it's easier to get customers to use your tools the way they should, prospects to buy your stuff or executives to support your initiatives. This comes more naturally when you understand the personalities, preferences, and tendencies of your customers, prospects, and executives, when you understand how they prefer to receive information and how they make decisions, when you understand how you tend to communicate and what you should adjust to more effectively communicate with and persuade them. What an amazing opportunity you have to impact your career as you learn how to influence others for everyone's benefit.
 ```
 
 ## Notes
+Influencing others effectively is closely connected to better relationships and improved communication:
+
+- Opportunities to influence others arise frequently in daily interactions, whether it's gaining resources, support, information, or buy-in.
+- Building strong relationships with others enhances your ability to influence them positively.
+- Effective communication skills are a crucial component of influence, allowing you to articulate your ideas and persuade others.
+- Mastering the art of influence can lead to getting your way more often, provided your intentions are ethical and beneficial for all parties involved.
+- Effective influencers tend to thoroughly understand their objectives, communicate why their proposals benefit everyone, and tailor their communication to match the preferences of their audience.
+- Influencing others can significantly impact your career, helping you achieve project success, gain customer buy-in, secure support from executives, and drive positive outcomes in various professional scenarios.
+- Understanding the personalities, preferences, and tendencies of your audience, along with adapting your communication accordingly, enhances your ability to influence for mutual benefit and career advancement.

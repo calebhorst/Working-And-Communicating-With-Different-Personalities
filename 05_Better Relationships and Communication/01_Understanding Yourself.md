@@ -1,5 +1,10 @@
-## 
+## Understanding Yourself
 ```
+Leading with Emotional Intelligence is one of my favorite and most important courses I've done on Pluralsight. In that course, I talk about the five pillars of emotional intelligence. The first is self‑awareness. I'd say self‑awareness is one of the most important life skills. Greater self‑awareness can lead to a healthier perspective of who you are, where you're at, and perhaps a path you can get on for improved happiness, satisfaction, and fulfillment. Honest self‑awareness can also lead to self‑confidence. I hear a lot of self‑defeating talk from technologists who always feel behind in their tech skills. Technologists need to constantly learn, which might be why I hear the phrase imposter syndrome so often. When we have self‑awareness, we are prepared to have better, more appropriate, more effective self‑regulation, which is the third pillar of emotional intelligence. Self‑regulation helps us manage things like imposter syndrome, feelings of being overwhelmed, or when we're in a meeting and we don't understand what's going on. The person who understands himself can be in a stressful situation, and instead of blowing up and getting out of control, practice techniques to calm down, assess the situation, remove unnecessary emotion and negative self‑talk, and act professionally. I know it can be hard to unpack who you are and honestly look at your strengths and weaknesses. Hopefully by now, you see I'm not talking about doing a deep assessment on your weaknesses, rather your tendencies and preferences. You aren't better or worse than others and you aren't right or wrong, you are who you are. Knowing that and accepting that can help improve your communication and relationships.
 ```
 
 ## Notes
+- Self-awareness is a crucial life skill that leads to a healthier perspective on oneself, happiness, satisfaction, and self-confidence.
+- Self-awareness can help technologists combat imposter syndrome and the feeling of being constantly behind in tech skills.
+- Self-regulation, the third pillar of emotional intelligence, enables individuals to manage stress, stay composed, and act professionally in challenging situations.
+- Self-awareness involves understanding one's tendencies and preferences without judgment or comparison to others, ultimately improving communication and relationships.

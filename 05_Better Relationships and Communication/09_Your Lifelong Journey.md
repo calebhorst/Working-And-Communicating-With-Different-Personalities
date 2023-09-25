@@ -1,5 +1,15 @@
-## 
+## Your Lifelong Journey
 ```
+I invite you to think about these things for the rest of your life. Seriously. As long as you have others in your life with opportunities for personal and professional relationships and the need to have effective communication, you should think about these things. I'm sure you won't become an expert in this knowledge or application of this knowledge by the end of this course; however, as you practice better relationships and communication based on knowing more about human nature, you should be able to make marginal and even noticeable improvements. Having this as a part of your lifelong journey means sometimes you will do well and feel like you're making progress and other times you'll feel like you're failing. When you've had bad relationship experiences or bad communication, take it as a learning experience. Maybe you were just wrong or you chose a wrong communication tactic; learn from that and strive to improve later. Don't let a mistake weigh you down or define you as bad at relationships or communication. Maybe you take a few months or a year to focus on a certain aspect of communication or relationships and get really good at that aspect. Give yourself time to get better at these things. Don't focus on the times you fail, rather, celebrate when you do something exceptionally well, like when you go outside of your preferences and tendencies to persuade someone who has different preferences and tendencies. This, by the way, is not a lack of authenticity, rather it is understanding others and how to most effectively communicate with them. These winds add up over time. They'll become a part of your muscle memory. You'll build important, even critical skills, that will help you in ways you may not have thought possible. This doesn't happen overnight.
 ```
 
 ## Notes
+Continuing to reflect on and apply your understanding of personalities, preferences, and tendencies in human interactions is a lifelong journey with various benefits:
+
+- Acknowledge that you won't become an expert in this field overnight, but with consistent practice, you can make gradual improvements in your relationships and communication.
+- Embrace the fact that you may experience both successes and failures along the way. View each setback as an opportunity to learn and grow.
+- Don't allow past mistakes to define your abilities in relationships or communication; instead, use them as stepping stones toward improvement.
+- Consider dedicating focused periods of time, such as months or a year, to hone specific aspects of your communication or relationship-building skills.
+- Celebrate your achievements, especially when you effectively communicate with individuals who have different preferences and tendencies from your own.
+- Understand that this journey involves gaining insight into others and adapting your communication, which is not a loss of authenticity but rather a sign of empathy and effective communication.
+- The cumulative effects of these efforts will become ingrained in your behavior, leading to the development of crucial skills that can positively impact your personal and professional life in ways you may not have initially imagined. Remember, these changes take time and consistent practice.

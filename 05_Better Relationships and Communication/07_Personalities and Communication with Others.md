@@ -1,5 +1,17 @@
-## 
+## Personalities and Communication with Others
 ```
+Increased understanding of personalities, preferences, and tendencies should also lead to improvements in your communication. When you're in a meeting or presentation, listen for clues indicating personality characteristics of people who are trying to make a point or sell you on an idea. Do they use details and data or do they stick to stories and anecdotes? If you want facts and details and they want stories and anecdotes, there could be a problem. This can be frustrating. Understanding how you prefer to receive information and how others prefer to receive information can have a profound influence on your ability to communicate. When you know what the people you need to effectively communicate with want, even need, details and facts, you can better cater your communication for them. Can you imagine how effective your communication can be with this one bit of knowledge? You're better prepared to think about how others prefer to receive information and deliver exactly what might influence and impact them. I've been in presentations where the presenter didn't do that. They were cut short by an executive who said something to the effect of get to the point. The point wasn't a feel good story, which is what the presenter was inspired by, rather it was the facts or details the executive wanted to hear. You can avoid this embarrassing situation with the knowledge and understanding from this course. Here are examples of how understanding personalities might influence your communication. When talking to an introvert in a group, don't draw attention to them as you might when talking to an extrovert. When talking to a sensing person, use facts and details. When talking to a thinking person, focus on logical arguments. When talking to a judging person, focus on what you want them to do to bring an issue to a close. Why? Because the judging person values getting things done and crossed off their list. As a professional presenter, I've heard I need to focus on the audience hundreds of times. This is communication 101. As you focus on your audience, which might be a customer or your teammates, focus on their tendencies and preferences. This can greatly enhance your communication effectiveness.
 ```
 
 ## Notes
+Understanding personalities, preferences, and tendencies can significantly improve your communication skills:
+
+- Pay attention to clues in communication styles during meetings and presentations to identify personality characteristics.
+- Adapt your communication based on whether others prefer details, data, stories, or anecdotes.
+- Tailor your messages to meet the specific communication preferences of your audience.
+- Avoid potential miscommunications or misunderstandings by catering your message accordingly.
+- Consider the needs of introverts and extroverts in group discussions.
+- Use facts and details when communicating with sensing individuals.
+- Appeal to logical arguments when conversing with thinking-oriented individuals.
+- Focus on task-oriented directives when dealing with judging individuals.
+- Enhance your overall communication effectiveness by understanding and catering to your audience's tendencies and preferences.

@@ -1,4 +1,4 @@
-## 
+## Summary
 ```
 In this module, we focused on the DiSC assessment. We talked about what the DiSC assessment is and how it helps you understand personality styles. We talked about how you can understand ideas, like how tasks are approached and at what speed people work. We talked about the importance of debriefing as a part of the process of understanding your DiSC results. We talked about complementary styles and how your behavioral strengths are your soft skills. In the next module, we'll tie a lot of these ideas together and talk about understanding personalities on our quest for better relationships and more effective communication.
 ```
