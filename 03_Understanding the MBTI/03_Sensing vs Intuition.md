@@ -1,5 +1,13 @@
-## 
+## Sensing vs. Intuition
 ```
+The second position or character in the Myers‑Briggs results will be an S or an N. S is for sensing, while N is for intuition. They didn't use I for intuition because the I represents introvert. The main question at the root of these two results is how do you prefer to take in information? People who get an S for sensing tend to focus on reality and how they observe things to be right now. People who get an N for intuition are likely more able to imagine possibilities. They can imagine how things can be done. The sensing person likes facts and details and values this information when making decisions. The intuitive person tends to look at the big picture, even without facts and details, and thinks about how things connect with one another. The sensing person prefers ideas that have practical applications, whereas the intuitive person enjoys ideas and concepts. A sensing person tends to describe things in a specific and literal way. They use facts, or what sound like facts, and details in their descriptions. The intuitive person describes things in a figurative or poetic way. If you think about the root question, how do you prefer to take in information, you can see this also impacts how you think about and communicate information. Can you see how important understanding just a single aspect of you or someone else can help you better communicate with others? You may want a lot of data and details, but that might overwhelm an intuitive. Neither of you are wrong, but just knowing how you prefer to take in information can improve your relationship and communication.
 ```
 
 ## Notes
+- The second character in the Myers‑Briggs results can be either S for sensing or N for intuition.
+- S represents individuals who prefer to focus on reality and what they observe in the present.
+- N represents those who are more inclined to imagine possibilities and how things can be done.
+- Sensing people value facts and details when making decisions, while intuitive individuals look at the bigger picture and think about how things connect.
+- Sensing individuals prefer practical applications of ideas, while intuitive people enjoy exploring ideas and concepts.
+- Sensing individuals describe things in a specific and literal way, using facts and details, while intuitive individuals use figurative or poetic language.
+- Understanding these preferences in how people take in information can significantly improve communication and relationships.

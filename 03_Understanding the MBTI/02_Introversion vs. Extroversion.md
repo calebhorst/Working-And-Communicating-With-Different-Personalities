@@ -1,5 +1,13 @@
-## 
+## Introversion vs. Extroversion
 ```
+Each of the four characters in your Myers‑Briggs result represents your tendencies for certain questions. This first position in the results, which will be an I or an E, tries to answer the question, is your focus outward or inward? I represents introversion, while E represents extraversion. Of all the MBTI results, I'm guessing you are most familiar with introversion and extraversion. It's pretty common to talk about introverts being quiet, shy, nonparty types, and extraverts being loud and maybe without some social boundaries. Those are generalizations, of course. A few years ago, I remember the talk shifted from those stereotypes to how do you recharge? Introverts, for example, need to recharge by themselves, while extraverts need to recharge by being around others. Let's go into a few other characteristics you'll commonly find about introverts and extraverts. Introverts are typically described as reserved or private as opposed to extraverts who are described as talkative or outgoing. The introvert prefers a slower pace and likes time to think, whereas the extravert loves to be in a fast‑paced environment. The introvert tends to think things through in their head while the extravert tends to work ideas out with others, which you might call thinking out loud. The introvert would rather observe from a distance than be the center of attention, whereas the extravert enjoys being the center of attention. A quick note as we contrast each of the results from the Myers‑Briggs assessment. There isn't necessarily a best or better result. We are all okay no matter what our results are. This isn't about getting a higher score or improving a personality over time. This is about understanding our and other's tendencies and thinking about how relationships and communication are impacted by these tendencies.
 ```
 
 ## Notes
+- The first position in the Myers‑Briggs result, represented by I or E, assesses whether a person's focus is outward or inward.
+- I stands for introversion, while E stands for extraversion, and they determine how a person recharges.
+- Introverts recharge by spending time alone, while extraverts recharge by being around others.
+- Introverts are often described as reserved, private, preferring a slower pace, and thinking things through in their heads.
+- Extraverts, on the other hand, are described as talkative, outgoing, enjoying a fast-paced environment, and working out ideas by thinking out loud.
+- Introverts prefer to observe from a distance, while extraverts enjoy being the center of attention.
+- It's important to note that there isn't a "better" or "best" result; this understanding is about recognizing tendencies and their impact on relationships and communication.

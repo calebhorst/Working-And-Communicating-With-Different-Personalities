@@ -1,5 +1,20 @@
-## 
+## Understanding ISTJ (Inspector)
 ```
+I want to spend a few minutes going deeper into 4 of the 16 personality types. Doing this exercise four times should give you a thought process to help you build a profile you can use for any result. The first personality I want to talk about is the inspector, or ISTJ. Because the root questions are so important, I'll put them on the screen. The first root question, the one that gives us the letter for the first of four characters, is are you outwardly or inwardly focused? ISTJ starts with an I, which means the inspector is introverted. The inspector tends to quietly think things through, be observant, and take time to contemplate things. How would knowing about these three preferences or tendencies help you communicate with or receive information from an ISTJ? If you're in a meeting with an inspector who doesn't talk much, are they mad at you? Are they disrespectful for not talking a lot? Or, could they just be thinking about the things that you're talking about? It's easy to get offended when others don't talk to us, but understanding their preferences and tendencies can allow us to give them the space they need to think through their responses. The second root question is how do you prefer to take in information? The inspector, as a sensing person, wants facts and details. They want to understand the practical application of what you're talking about. They tend to describe things literally. The inspector is thoughtful about the information you give them. If I were trying to persuade an ISTJ, I would make sure I had good, solid facts and lots of details ready. The third root question is how do you prefer to make decisions? The inspector is a T, which means thinking instead of F for feeling. This means that, with regard to making decisions, the inspector tends to be impersonal and logical, valuing justice and fairness. They seek flaws in arguments and they're typically described as being level headed. The fourth root question is how do you prefer to live your outer life? The ISTJ is a judging person, which means they like to have their matter settled. They like rules and deadlines. They like detailed instructions and they like to have and make plans. According to what I've read, the inspector is the most common personality type in the United States. Can you see how understanding the characteristics of the inspector can help you understand how and what you would communicate to them and why they communicate a certain way with you? You wouldn't want to go into a meeting with just stories and anecdotes, you need facts and details. Try to appeal to the inspector's sense of justice and fairness by explaining processes and rules, appeal to their introverted nature by allowing them time to contemplate. Giving the inspector a deadline might appeal to the way they think.
 ```
 
 ## Notes
+- The Inspector, or ISTJ, has the following preferences and tendencies based on the root questions:
+  - **Outwardly or Inwardly Focused:** Introverted (I); tends to quietly think, be observant, and contemplate.
+  - **How Do You Prefer to Take in Information:** Sensing (S); seeks facts, details, and practical applications.
+  - **How Do You Prefer to Make Decisions:** Thinking (T); makes decisions based on logic, values justice and fairness, and looks for flaws in arguments.
+  - **How Do You Prefer to Live Your Outer Life:** Judging (J); prefers settled matters, rules, deadlines, detailed instructions, and plans.
+
+Understanding these characteristics can help in communication with an ISTJ:
+- Give them space to think and contemplate during discussions.
+- Provide solid facts, details, and practical information.
+- Appeal to their sense of justice and fairness.
+- Offer clear processes, rules, and deadlines.
+- Provide detailed plans when necessary.
+
+Recognizing these tendencies can improve interactions and communication with an ISTJ.

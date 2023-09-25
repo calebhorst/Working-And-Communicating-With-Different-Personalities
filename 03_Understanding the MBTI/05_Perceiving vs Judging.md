@@ -1,5 +1,14 @@
-## 
+## Perceiving vs. Judging
 ```
+The last of the four positions in your Myers‑Briggs assessment will be a P or a J. P is for perceiving and J is for judging. The question we're trying to answer is kind of a weird one. How do you prefer to live your outer life? Outer life isn't a term I think I've ever used, but let's go through some of these characteristics and I think you'll understand what they're getting at. A perceiving person prefers to leave their options open while a judging person prefers to have their matters settled. Have you ever worked with someone who before the meeting ends needs to have resolution to everything on the agenda? That person would probably tend to be a J for judging. A perceiving person sees rules and deadlines as flexible, whereas a judging person thinks rules and deadlines are more rigid and should be respected. If you score really high in judging, people who score high in perceiving are probably really annoying to you, especially on projects where there seems to be a lot at stake. A perceiving person likes to improve and make things up on the fly. They can go into a situation relying on their creativity and not worrying about having detailed plans. A judging person would prefer to have detailed instructions. A perceiving person is spontaneous and enjoys surprises and new situations. The judging person likes to make plans and know every detail. The perceiving person seems to be a lot more laid back and ready to take on any challenge, where the judging person likes to prepare for every situation If you're okay to hop in a car to take a road trip without a map and just drive, you're probably more of a perceiving person. The person who has a full itinerary knows exactly where they're going, when they're going to get there, where they're going to stay, and what restaurants they'll eat at, that's the judging person.
 ```
 
 ## Notes
+- The fourth position in the Myers‑Briggs results can be either P for perceiving or J for judging.
+- Perceiving individuals prefer to leave their options open, while judging individuals prefer to have their matters settled.
+- Perceiving individuals view rules and deadlines as flexible, while judging individuals see them as more rigid and to be respected.
+- Perceiving individuals are comfortable with improvisation and creativity, often not requiring detailed plans.
+- Judging individuals prefer detailed instructions and like to plan meticulously.
+- Perceiving individuals are spontaneous, enjoy surprises, and are open to new situations.
+- Judging individuals like to make comprehensive plans, preferring to prepare for every situation.
+- The choice between perceiving and judging can influence how individuals approach challenges and plan for various situations.
