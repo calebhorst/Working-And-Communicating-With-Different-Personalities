@@ -1,5 +1,11 @@
-## 
+## Complementary People
 ```
+One of the benefits we should get from understanding personalities, tendencies, preferences, types, and styles is that we can understand who we would best work with. I know someone who is a dominant, a strong D, which means they are direct, firm, strong‑willed, and forceful. They tend to work great with others unless there are other Ds, or dominants. The Ds seem to have a hard time figuring out who the main dominant is. I'm not saying it can't be done, but from what I've seen, some dominants will have to kind of relinquish control and power to another or else there will be a lot of arguing and eventual factions. When you pair a dominant with an S, which, remember, S stands for steadiness, you get kind of a power partnership. The steady partner has complementary characteristics that maybe allow them to overlook what others might see as annoying or overbearing in the dominant. And the dominant can really appreciate and work with the steady person in a way that perhaps would annoy others. Imagine a team with all dominants or all steady. You would miss out on diversity of thoughts and skills. Having different styles work together and optimally complement one another can be extremely powerful. I'm not saying you can't have people with noncomplementary styles on a team. Of course you can, and of course you can create a great team with those people. I'm just suggesting that you consider personality types or styles as you build or rebuild teams. Thinking about personality types or styles that complement one another can help you build powerful teams. If you think about it, creating winning teams is why many organizations and recruiters want you to do personality assessments.
 ```
 
 ## Notes
+- Understanding personality types, tendencies, and preferences can help identify ideal team dynamics.
+- Dominant personalities (D) tend to work well with steadiness-oriented individuals (S), creating a complementary power partnership.
+- Teams composed entirely of the same personality type may lack diversity of thought and skills.
+- Building teams with diverse personality styles can lead to more powerful and well-rounded teams.
+- Many organizations and recruiters use personality assessments to create winning teams by considering complementary personality types.

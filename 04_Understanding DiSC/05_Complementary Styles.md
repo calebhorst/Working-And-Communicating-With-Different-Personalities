@@ -1,5 +1,11 @@
-## 
+## Complementary Styles
 ```
+Okay, so, we know your DiSC results are called a behavioral style. Your primary style might be a D or I or S or C. Expect a secondary style that complements your primary style. This is directly in line with what we've talked about with sliding scales and not being absolute. Remember, DiSC results number in the thousands, so there's definitely a lot of sliding. Look at what the secondary and tertiary styles are and how strong those styles are. An idea behind all of these assessments is that we can get a better understanding of who we are and why we think and do things the way we do. We also need to understand those things about people we work with, our customers, our leaders, even people we have personal relationships with. Considering complementary styles will help us understand or even just think about some of these nuances that vary from the primary style. If you talk to someone who is an I and they act differently than you expect, it could be because they're secondary style is coming out. This very idea is basically a theme of the course. Make sure you respect the sliding scale and recognize that a dominant style or assessment result is not the only style or result. Just having this perspective can help explain unexpected behavior. Of course, this goes hand in hand with the role circumstances play. As I mentioned earlier, allow for flexibility when comparing behaviors and results.
 ```
 
 ## Notes
+- DiSC results consist of a primary style, which might be D, I, S, or C, but they are not absolute and can vary along a sliding scale.
+- Secondary and tertiary styles complement the primary style, adding complexity to the assessment.
+- Understanding the interplay between primary and secondary styles can help explain unexpected behavior in individuals.
+- Respect the sliding scale and recognize that there is not just one dominant style or assessment result.
+- Allow for flexibility in understanding behaviors and results, considering the role of circumstances in shaping behavior.

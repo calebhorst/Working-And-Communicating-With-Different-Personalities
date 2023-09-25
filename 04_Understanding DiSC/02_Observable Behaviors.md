@@ -1,5 +1,10 @@
-## 
+## Observable Behaviors
 ```
+One of the things I really like about the DiSC assessment is that it is basing results on your observable behavior and observable emotions. This is an important distinction because the Myers‑Briggs questions are more about what you think you would do while DiSC is more about things you have done. Observable behavior means the heart of each question is when you had this situation before, how did you react? While the Myers‑Briggs questions get at preferences and tendencies, which some say are internal, the DiSC questions get at observable behaviors, which they say are external. I really do like this distinction. I find it hard to answer some of the Myers‑Briggs questions because I think, well, under ideal circumstances, I would do this thing or I think someone like me should answer this way. It's like I'm constantly reassessing or second guessing my internal, my preferences and tendencies. With the DiSC, I can answer questions thinking how did I actually handle certain scenarios? That goes beyond the what is ideal answer. I really like the idea of asking how I've reacted or thought. I think it's easier to answer these questions more accurately. This is important because the focus is on what we have done and what we think we would do based on past behavior. You've probably heard some variation of this phrase, past behavior is a great indicator of future behavior. Combine this different kind of questioning with a scaling system of responses instead of just choosing one or two options, and you have assessment questions that might help you get more precise results.
 ```
 
 ## Notes
+- DiSC assessment relies on observable behavior and emotions, making it more focused on past behavior and reactions.
+- DiSC questions ask how you have reacted or thought in specific scenarios, providing a more accurate reflection of behavior.
+- The use of a scaling system for responses in DiSC allows for more precise results.
+- This approach is advantageous as past behavior can be a good indicator of future behavior.
